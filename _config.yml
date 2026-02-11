@@ -1,3 +1,4 @@
 title:My Drive Archive
 description:ドライブの記録
+plugins:-jekyll-feed
 theme:minima
